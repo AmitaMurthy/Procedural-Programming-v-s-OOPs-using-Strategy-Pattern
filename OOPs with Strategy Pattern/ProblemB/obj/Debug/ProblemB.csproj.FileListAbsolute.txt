@@ -1,0 +1,7 @@
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemB\ProblemB\obj\Debug\ProblemB.csprojResolveAssemblyReference.cache
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemB\ProblemB\obj\Debug\ProblemB.csproj.CoreCompileInputs.cache
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemB\ProblemB\bin\Debug\ProblemB.exe.config
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemB\ProblemB\bin\Debug\ProblemB.exe
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemB\ProblemB\bin\Debug\ProblemB.pdb
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemB\ProblemB\obj\Debug\ProblemB.exe
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemB\ProblemB\obj\Debug\ProblemB.pdb

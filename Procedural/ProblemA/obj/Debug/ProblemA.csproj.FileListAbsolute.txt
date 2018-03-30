@@ -1,0 +1,13 @@
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemA\ProblemA\bin\Debug\ProblemA.exe.config
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemA\ProblemA\bin\Debug\ProblemA.exe
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemA\ProblemA\bin\Debug\ProblemA.pdb
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemA\ProblemA\obj\Debug\ProblemA.csprojResolveAssemblyReference.cache
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemA\ProblemA\obj\Debug\ProblemA.csproj.CoreCompileInputs.cache
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemA\ProblemA\obj\Debug\ProblemA.exe
+\\STUFILES-M.pclab.uhcl.edu\STUFILES-M\MurthyA7617\Home\Desktop\C# Test 3\ProblemA\ProblemA\obj\Debug\ProblemA.pdb
+C:\Users\amitamurthy1\Documents\Personal\Sem 4-C#, ADB, SAD\C#\C# Test 3_Amita Murthy\ProblemA\ProblemA\bin\Debug\ProblemA.exe.config
+C:\Users\amitamurthy1\Documents\Personal\Sem 4-C#, ADB, SAD\C#\C# Test 3_Amita Murthy\ProblemA\ProblemA\bin\Debug\ProblemA.exe
+C:\Users\amitamurthy1\Documents\Personal\Sem 4-C#, ADB, SAD\C#\C# Test 3_Amita Murthy\ProblemA\ProblemA\bin\Debug\ProblemA.pdb
+C:\Users\amitamurthy1\Documents\Personal\Sem 4-C#, ADB, SAD\C#\C# Test 3_Amita Murthy\ProblemA\ProblemA\obj\Debug\ProblemA.csprojResolveAssemblyReference.cache
+C:\Users\amitamurthy1\Documents\Personal\Sem 4-C#, ADB, SAD\C#\C# Test 3_Amita Murthy\ProblemA\ProblemA\obj\Debug\ProblemA.exe
+C:\Users\amitamurthy1\Documents\Personal\Sem 4-C#, ADB, SAD\C#\C# Test 3_Amita Murthy\ProblemA\ProblemA\obj\Debug\ProblemA.pdb
